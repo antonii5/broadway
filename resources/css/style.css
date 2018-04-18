@@ -3,7 +3,7 @@ html{
   font-family: Helvetica;
 }
 
-.header{
+.header, .separator{
   background-image: url('../images/the-flatiron-building.png');
 }
 
@@ -35,4 +35,10 @@ li{
 
 .stage p{
   font-size: 14px;
+}
+
+.separator h2{
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
 }
